@@ -1,0 +1,6 @@
+{
+  "name": "Malayalam Home Ideas E-Book Reader",
+  "description": "Interactive Malayalam Home Ideas e-book reader with 2000+ points structured by stages, featuring offline reading, search by point number, list search, and a dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
